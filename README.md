@@ -1,0 +1,1 @@
+# JavaScript_23_lekce02
