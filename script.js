@@ -1,1 +1,2 @@
-const jmeno = "Vladka"
+const jmeno = "Vladka
+const prijmeni = "Vrana"
